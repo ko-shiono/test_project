@@ -1,6 +1,6 @@
 Class WhatIsGit
   def about
-    puts 'https://ja.wikipedia.org/wiki/Git'
+    puts 'https://en.wikipedia.org/wiki/Git'
   end
 
   def show
